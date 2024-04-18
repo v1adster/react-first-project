@@ -1,0 +1,48 @@
+[
+{
+    "title":"product 1",
+    "price":149,
+    "discount":5,
+    "id":1,
+    "category":1,
+    "like": false,
+    "description":"asdad",
+    "img": ""
+},
+{
+    "title":"product 2",
+    "price":123,
+    "discount":3 
+},
+{
+    "title":"product 3",
+    "price":219,
+    "discount":0 
+},
+{
+    "title":"product 4",
+    "price":199,
+    "discount":4 
+},
+{
+    "title":"product 5",
+    "price":299,
+    "discount":7 
+},
+{
+    "title":"product 6",
+    "price":159,
+    "discount":5 
+},
+{
+    "title":"product 7",
+    "price":179,
+    "discount":0 
+},
+{
+    "title":"product 8",
+    "price":99,
+    "discount":0 
+}
+
+]
